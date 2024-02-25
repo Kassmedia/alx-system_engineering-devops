@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# Displays 'Best School'. Displays Bad Luck on the 4th iteration. Displays good Luck on the 8th iteration
+
+count=0
+while [ $count -lt 10 ]
+do
+  if [ $count -eq 4 ]
+  then
+    echo "bad luck"
+ elif [ $count -eq 8 ]
+  then
+    echo "good luck"
+ else
+ echo "best school"
+ (( count++))
+done
