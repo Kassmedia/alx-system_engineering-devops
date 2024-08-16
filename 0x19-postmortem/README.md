@@ -68,4 +68,4 @@ The solution was as swift as it was simple: apprehend the missing semicolon and 
 
 Lessons Learned: The Power of the Semicolon
 
-This incident, while frustrating at the time,  serves as a hilarious reminder of the importance of code review and meticulous attention to detail.  A tiny typo can have a website-wide impact!
+This incident, while frustrating at the time,  serves as a hilarious reminder of the importance of code review and meticulous attention to detail.  A tiny typo can have a website-wide impact! We are constantly stormed by a quantity of information, it’s tough to get people to read you.
